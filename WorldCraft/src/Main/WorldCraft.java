@@ -32,7 +32,7 @@ public class WorldCraft {
 	private static void initGame() 
 	{
 		
-		
+		System.out.println("Stating game...");
 		
 	}
 	
